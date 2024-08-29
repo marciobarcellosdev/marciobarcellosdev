@@ -3,19 +3,49 @@
 <br><br>
 
 
+<ins>Próximos conhecimentos a serem adquiridos</ins><br>
+Go, Java, Kubernetes, Kafka, RabbitMQ, MongoDB, Spring Cloud, Spring Webflux, Dapper, Entity Framework
 
+<br>
 <ins>Curso em progresso</ins><br>
-
-
 _ *13%* (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
 [( open page course )](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/)<br>
 
-<br>
 
 
-<ins>Cursos em pausa</ins><br>
 <br><br>
+<ins>Cursos em pausa</ins><br>
+*working on it*
 
+
+<br><br>
+<ins>Cursos não iniciados (novo conhecimento)</ins><br>
+_ (Java) COMPLETO: Do Zero ao Profissional + Projetos! [**77h 12m**]
+[( open page course )](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)<br>
+
+
+<br><br>
+<ins>Cursos não iniciados (aprimorar conhecimento)</ins><br>
+_ (ASP.NET) Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C# [**24h 14m**]
+[( open page course )](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/)<br>
+_ (ASP.NET Core MVC) Curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6) [**16h 0m**]
+[( open page course )](https://www.udemy.com/course/curso-de-asp-net-core-mvc-criando-um-site-do-zero/)<br>
+_ (JavaScript) Curso de JavaScript Completo [**113h 44m**]
+[( open page course )](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/)<br>
+_ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
+[( open page course )](https://www.udemy.com/course/angular-dotnetcore-efcore/)<br>
+_ (Oracle )Banco de Dados Oracle Completo: SQL+PLSQL+Modelagem [**31h 35m**]
+[( open page course )](https://www.udemy.com/course/banco-de-dados-oracle-completo-sqlplsqlmodelagem-de-dados/)<br>
+_ (PHP) Curso Completo de PHP 7 [**33h 23m**]
+[( open page course )](https://www.udemy.com/course/curso-php-7-online/)<br>
+_ (Ruby) Learn Ruby on Rails 7 [**4h 35m**]
+[( open page course )](https://www.udemy.com/course/learn-ruby-on-rails-7/)<br>
+_ (Ruby) The Complete Ruby on Rails Developer Course [**47h 51m**]
+[( open page course )](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)<br>
+
+
+
+<br><br>
 <ins>Cursos finalizados</ins><br>
 _ (ASP.NET) MVC Core 3 com Visual Studio Code [**5h 51m**]
 [( open page course )](https://www.udemy.com/course/aspnet-mvc-core-3-com-visual-studio-code/)<br>
@@ -39,14 +69,7 @@ _ (SignalR) The Complete Guide (with real world examples) [**4h 56m**]
 
 
 
-
-
-<ins>Cursos não iniciados</ins><br>
-
-
-*working on it*
 <br><br>
-
 > SERVIDOR
 
 *working on it*
@@ -75,6 +98,10 @@ NGINX, PHP, phpMyAdmin, MariaDB<br />
 > <em>Last update: 28/08/2024</em>
 
 <!--
+
+conhecimento atual, docker, ci/cd, etc
+
+formas de contato
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
