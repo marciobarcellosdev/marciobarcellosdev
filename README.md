@@ -1,46 +1,47 @@
 ## Marcio Barcellos 
-<span style="color:blue">*software developer*</span>
+*software developer*
 <br><br>
 
 
 
-<ins>CURSOS EM PROGRESSO</ins><br>
+<ins>Curso em progresso</ins><br>
 
-*working on it*
+
+_ *13%* (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
+[( open page course )](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/)<br>
+
+<br>
+
+
+<ins>Cursos em pausa</ins><br>
 <br><br>
-
-
 
 <ins>Cursos finalizados</ins><br>
-
-_ (ASP.NET) MVC Core 3 com Visual Studio Code
-<a href="https://www.udemy.com/course/aspnet-mvc-core-3-com-visual-studio-code/" target="_blank">( open page course )</a>
-
-
-_ (ASP.NET) MVC Core 3 com Visual Studio Code [5h 51m]
+_ (ASP.NET) MVC Core 3 com Visual Studio Code [**5h 51m**]
 [( open page course )](https://www.udemy.com/course/aspnet-mvc-core-3-com-visual-studio-code/)<br>
-_ (ASP.NET) Single-Page Application with ASP.NET & jQuery Hands-On [3h 28m]
+_ (ASP.NET) Single-Page Application with ASP.NET & jQuery Hands-On [**3h 28m**]
 [( open page course )](https://www.udemy.com/course/single-page-application-with-aspnet-jquery-hands-on/)<br>
-_ (AWS) Certificação AWS Certified Developer Associate DVA-C01 [16h 50m]
+_ (AWS) Certificação AWS Certified Developer Associate DVA-C01 [**16h 50m**]
 [( open page course )](https://www.udemy.com/course/certificacao-amazon-aws-certified-developer-associate-2020/)<br>
-_ (Azure) Certificação Microsoft AZ-900 Azure Fundamentals [4h 16m]
+_ (Azure) Certificação Microsoft AZ-900 Azure Fundamentals [**4h 16m**]
 [( open page course )](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals/)<br>
-_ (C#) COMPLETO Programação Orientada a Objetos + Projetos [38h 10m]
+_ (C#) COMPLETO Programação Orientada a Objetos + Projetos [**38h 10m**]
 [( open page course )](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)<br>
-_ (Flutter) Aprenda Flutter e Desenvolva Apps Para Android e IOS [59h 54m]
+_ (Flutter) Aprenda Flutter e Desenvolva Apps Para Android e IOS [**59h 54m**]
 [( open page course )](https://www.udemy.com/course/curso-flutter/)<br>
-_ (JavaScript) Curso de Fundamentos da Linguagem JavaScript [1h 53m]
+_ (JavaScript) Curso de Fundamentos da Linguagem JavaScript [**1h 53m**]
 [( open page course )](https://www.udemy.com/course/curso-de-fundamentos-da-linguagem-javascript/)<br>
-_ (SignalR) The Complete Guide (with real world examples) [4h 56m]
+_ (Ruby) on Rails 5.x - Do início ao fim! [**47h 51m**]
+[( open page course )](https://www.udemy.com/course/rubyonrails-5x/)<br>
+_ (SignalR) The Complete Guide (with real world examples) [**4h 56m**]
 [( open page course )](https://www.udemy.com/course/signalr-the-complete-guide/)<br>
 
-_ (Ruby) on Rails 5.x - Do início ao fim! [47h 51m]
-[( open page course )](https://www.udemy.com/course/rubyonrails-5x/)<br>
 
 
 
 
-<ins>CURSOS NÃO INICIADOS</ins><br>
+
+<ins>Cursos não iniciados</ins><br>
 
 
 *working on it*
