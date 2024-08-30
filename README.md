@@ -7,8 +7,9 @@
 Go, Java, Kubernetes, Kafka, RabbitMQ, MongoDB, Spring Cloud, Spring Webflux, Dapper, Entity Framework
 
 <br>
-<ins>Curso em progresso</ins><br>
-_ *13%* (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
+<ins>Curso em progresso</ins> {13%}<br>
+
+_ (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
 [( open page course )](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/)<br>
 
 
@@ -19,17 +20,27 @@ _ *13%* (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
 
 
 <br><br>
-<ins>Cursos não iniciados (novo conhecimento)</ins><br>
+<ins>Cursos não iniciados (novo conhecimento)</ins>
+
+_ (Django) Curso de Django Web Framework e Django Rest Framework (DRF) [**79h 0m**]
+[( open page course )](https://www.udemy.com/course/curso-de-django-web-framework-com-python-html-e-css/)<br>
+_ (Google) Cloud Developer - GCP Professional Certification [**21h 32m**]
+[( open page course )](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/)<br>
 _ (Java) COMPLETO: Do Zero ao Profissional + Projetos! [**77h 12m**]
 [( open page course )](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)<br>
+_ (SEO) Curso de SEO 2024 - Do zero até a primeira posição no GOOGLE [**10h 37m**]
+[( open page course )](https://www.udemy.com/course/curso-de-seo-2022-rodrigo-bueno/)<br>
 
 
-<br><br>
-<ins>Cursos não iniciados (aprimorar conhecimento)</ins><br>
+<br>
+<ins>Cursos não iniciados (aprimorar conhecimento)</ins>
+
 _ (ASP.NET) Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C# [**24h 14m**]
 [( open page course )](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/)<br>
 _ (ASP.NET Core MVC) Curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6) [**16h 0m**]
 [( open page course )](https://www.udemy.com/course/curso-de-asp-net-core-mvc-criando-um-site-do-zero/)<br>
+_ (Azure) DevOps - Board, Repos, Pipeline,Test Plans e Artifacts [**6h 22m**]
+[( open page course )](https://www.udemy.com/course/azuredevops-services/)<br>
 _ (JavaScript) Curso de JavaScript Completo [**113h 44m**]
 [( open page course )](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/)<br>
 _ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
@@ -43,10 +54,9 @@ _ (Ruby) Learn Ruby on Rails 7 [**4h 35m**]
 _ (Ruby) The Complete Ruby on Rails Developer Course [**47h 51m**]
 [( open page course )](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)<br>
 
+<br>
+<ins>Cursos finalizados</ins>
 
-
-<br><br>
-<ins>Cursos finalizados</ins><br>
 _ (ASP.NET) MVC Core 3 com Visual Studio Code [**5h 51m**]
 [( open page course )](https://www.udemy.com/course/aspnet-mvc-core-3-com-visual-studio-code/)<br>
 _ (ASP.NET) Single-Page Application with ASP.NET & jQuery Hands-On [**3h 28m**]
@@ -95,7 +105,7 @@ NGINX, PHP, phpMyAdmin, MariaDB<br />
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
 -->
 
-> <em>Last update: 28/08/2024</em>
+> <em>Last update: 29/08/2024 23:44</em>
 
 <!--
 
