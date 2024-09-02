@@ -12,60 +12,78 @@ Também já trabalhei em outras aplicações da empresa que utilizam Dart/Flutte
 Português (nativo) / Inglês (good read and listening)
 
 
-<br><ins>Conhecimentos atuais</ins> (working on it)<br>
+<br><ins>Conhecimentos atuais</ins><br>
 
 **IDE**: VS Code, Visual Studio 2019/2022, Eclipse, PhpStorm, Sublime Text, NetBeans, Delphi 6<br>
 **Controle de versão**: Git, GitHub, BitBucket, Azure Repos<br>
 **Hospedagem**: cPANEL (phpMyAdmin), WHM, registro de domínios, DNS, FTP, SSH<br>
-**Linguagens**: NET, PHP, CSS, JavaScript (jQuery, Json, Ajax)<br>
+**Linguagens**: C#, PHP, CSS, JavaScript (jQuery, Json, Ajax), Dart, Ruby<br>
 **Banco de dados (SQL)**: SQL, Oracle, MySQL, Postgre<br>
-**Banco de dados (NoSQL)**: Firebase, Amazon DynamoDB<br>
+**Banco de dados (NoSQL)**: Firebase, DynamoDB<br>
 **Cloud**: AWS, Azure, CI/CD, GitHub Actions, Docker<br>
-**Servidores**: Administração de servidores Linux e Windows<br>
+**Servidores**: IIS, Administração de servidores Linux e Windows<br>
 **Virtualização**: VMWare, VirtualBox<br>
 **Acesso remoto**: VNC, TeamViewer, Supremo, AnyDesk<br>
-**Armazenamento na nuvem**: OneDrive, DropBox, Google Drive, Mega<br>
-**Outros**: Win10/Win11 (configuração), hardware, pacote Office, Outllook, Teams, redes, Wi-Fi, firewall, antivírus, PowerShell, drivers, impressoras, navegadores, Active Directory, DHCP
-
+**Armazenamento na nuvem**: OneDrive, DropBox, Google Drive, Mega, IDrive<br>
+**Outros**: Win10/Win11 (configuração), Linux, hardware, pacote Office, Outllook, Teams, redes, Wi-Fi, firewall, antivírus, PowerShell, drivers, impressoras, navegadores, Active Directory, DHCP
 
 
 <br><ins>Próximos conhecimentos a serem adquiridos</ins><br>
-Go, Java, React, Kubernetes, Kafka, RabbitMQ, MongoDB, Spring Cloud, Spring Webflux, Dapper, Entity Framework
+
+**Linguagens**: Go, Java, Python, Clojure<br>
+**Mensageria**: Kafka, RabbitMQ<br>
+**Banco de dados (NoSQL)**: MongoDB, Redis<br>
+**Banco de dados (ORM)**: Dapper, Entity Framework, Hibernate<br>
+**Banco de dados (outros)**: Datomic<br>
+**Testes unitários**: Nsubstitute, Xunit<br>
+**Frameworks**: React<br>
+**Contêineres**: Kubernetes<br>
+**Microserviços**: Spring Cloud<br>
+**Programação reativa**: Spring WebFlux<br>
+**CI/CD**: Jenkins<br>
+**Ambiente de execução**: Node.js<br>
+**API**: GraphQL<br>
+**Monitoramento**: Grafana, Prometheus<br>
 
 
-<br>
-<br><ins>Curso em progresso</ins> {13%}<br>
+<br><ins>Curso em progresso</ins><br>
 
 _ (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
-( [open page course](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/) ) ( [repositório](https://github.com/marciobarcellosdev/go_quicknotes) )
+( [open page course](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/) ) ( [repositório](https://github.com/marciobarcellosdev/go_quicknotes) ) {13%}
 
 
-
-
-
-<br>
 <br><ins>Cursos em pausa</ins><br>
-*working on it*
+
+_ (Azure) AZ-204 Developing Solutions for Microsoft Azure - OCT 2023 [**11h**]
+( [open page course](https://www.udemy.com/course/70532-azure/) ) {47%}<br>
+_ (Azure) DevOps - Board, Repos, Pipeline,Test Plans e Artifacts [**6h 22m**]
+( [open page course](https://www.udemy.com/course/azuredevops-services/) ) {38%}<br>
+_ (Google) Certificação Google Cloud Associate Cloud Engineer (GCP) [**8h 57m**]
+( [open page course](https://www.udemy.com/course/certificacao-google-cloud-associate/) ) {44%}<br>
 
 
-<br>
+<br><ins>Cursos não iniciados (mobile)</ins><br>
+
+_ (Kotlin) Desenvolvimento Android Completo - Crie 18 Apps [**107,5h**]
+( [open page course](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/) )<br>
+_ (Swift) Desenvolvimento IOS 12 - Aprenda a criar 18 Apps [**52h**]
+( [open page course](https://www.udemy.com/course/curso-desenvolvimento-ios/) )<br>
+
+
 <br><ins>Cursos não iniciados (novo conhecimento)</ins>
 
-_ (Google) Certificação Google Cloud Associate Cloud Engineer (GCP) [**8h 57m**]
-( [open page course](https://www.udemy.com/course/certificacao-google-cloud-associate/) )<br>
 _ (Google) Cloud Developer - GCP Professional Certification [**21h 32m**]
 ( [open page course](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/) )<br>
 _ (Java) COMPLETO: Do Zero ao Profissional + Projetos! [**77h 12m**]
 ( [open page course](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) )<br>
+_ (Java) REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker [**34,5h**]
+( [open page course](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/) )<br>
 _ (Java) Spring Boot + React JS: Desenvolva Aplicações Web Completas [**22,5h**]
 ( [open page course](https://www.udemy.com/course/desenvolva-aplicacoes-completas-com-spring-boot-e-react-js/) )<br>
 _ (Python) do ZERO à Programação Orientada a Objetos [**16h 2m**]
 ( [open page course](https://www.udemy.com/course/python-do-zero-a-poo/) )<br>
 _ (Python) Curso de Django Web Framework e Django Rest Framework (DRF) [**79h 0m**]
 ( [open page course](https://www.udemy.com/course/curso-de-django-web-framework-com-python-html-e-css/) )<br>
-_ (SEO) Curso de SEO 2024 - Do zero até a primeira posição no GOOGLE [**10h 37m**]
-( [open page course](https://www.udemy.com/course/curso-de-seo-2022-rodrigo-bueno/) )<br>
-
 
 
 <br><ins>Cursos não iniciados (aprimorar conhecimento)</ins><br>
@@ -76,8 +94,6 @@ _ (ASP.NET Core MVC) Curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6
 ( [open page course](https://www.udemy.com/course/curso-de-asp-net-core-mvc-criando-um-site-do-zero/) )<br>
 _ (Azure) Boards : Gerenciamento de Projetos com Azure DevOps [**12h**]
 ( [open page course](https://www.udemy.com/course/azureboards/) )<br>
-_ (Azure) DevOps - Board, Repos, Pipeline,Test Plans e Artifacts [**6h 22m**]
-( [open page course](https://www.udemy.com/course/azuredevops-services/) )<br>
 _ (JavaScript) Curso de JavaScript Completo [**113h 44m**]
 ( [open page course](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/) )<br>
 _ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
@@ -91,18 +107,26 @@ _ (PHP) Laravel 6 na Prática - Criando um Marketplace [**25,5h**]
 ( [open page course](https://www.udemy.com/course/laravel-6-na-pratica/) )<br>
 _ (Ruby) Learn Ruby on Rails 7 [**4h 35m**]
 ( [open page course](https://www.udemy.com/course/learn-ruby-on-rails-7/) )<br>
+_ (Ruby) TDD com Ruby on Rails, RSpec e Capybara [**15,5h**]
+( [open page course](https://www.udemy.com/course/rails-tdd/) )<br>
 _ (Ruby) The Complete Ruby on Rails Developer Course [**47h 51m**]
 ( [open page course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) )<br>
-
 
 
 <br><ins>Cursos não iniciados (design)</ins><br>
 
 _ (Figma) Design de interfaces do zero ao profissional 2024 [**15h 15m**]
 ( [open page course](https://www.udemy.com/course/figma-design-interfaces/) )<br>
-_ (Photoshop) Curso de Photoshop CC 2020, do iniciante ao avançado [**34h**]
+_ (Adobe Photoshop) Curso de Photoshop CC 2020, do iniciante ao avançado [**34h**]
 ( [open page course](https://www.udemy.com/course/aprenda-photoshop-cc-2020-do-zero-ao-avancado/) )<br>
+_ (Adobe XD) Curso Completo de Adobe XD| 10 Projetos + 2 Nanocursos [**9h**]
+( [open page course](https://www.udemy.com/course/curso-de-adobe-xd/) )<br>
 
+
+<br><ins>Cursos não iniciados (search engine optimization)</ins><br>
+
+_ (SEO) Curso de SEO 2024 - Do zero até a primeira posição no GOOGLE [**10h 37m**]
+( [open page course](https://www.udemy.com/course/curso-de-seo-2022-rodrigo-bueno/) )<br>
 
 
 <br><ins>Cursos finalizados</ins><br>
@@ -153,7 +177,7 @@ NGINX, PHP, phpMyAdmin, MariaDB, mysql<br />
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
 -->
 
-> <em>Last update: 01/08/2024 20:21</em>
+> <em>Last update: 02/09/2024 00:05</em>
 
 <!--
 
