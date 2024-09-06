@@ -18,13 +18,16 @@ Português (nativo) / Inglês (good read and listening)
 **Controle de versão**: Git, GitHub, BitBucket, Azure Repos<br>
 **Hospedagem**: cPANEL (phpMyAdmin), WHM, registro de domínios, DNS, FTP, SSH<br>
 **Linguagens**: C#, PHP, CSS, JavaScript (jQuery, Json, Ajax), Dart, Ruby<br>
+**Frameworkds**: .NET Framework, .NET Core, Fluttter, Rails<br>
 **Banco de dados (SQL)**: SQL, Oracle, MySQL, Postgre<br>
 **Banco de dados (NoSQL)**: Firebase, DynamoDB<br>
-**Cloud**: AWS, Azure, CI/CD, GitHub Actions, Docker<br>
+**Cloud**: AWS, Azure, CI/CD, GitHub Actions<br>
 **Servidores**: IIS, Administração de servidores Linux e Windows<br>
+**Contêineres**: Docker<br>
 **Virtualização**: VMWare, VirtualBox<br>
 **Acesso remoto**: VNC, TeamViewer, Supremo, AnyDesk<br>
 **Armazenamento na nuvem**: OneDrive, DropBox, Google Drive, Mega, IDrive<br>
+**API**: Postman<br>
 **Outros**: Win10/Win11 (configuração), Linux, hardware, pacote Office, Outllook, Teams, redes, Wi-Fi, firewall, antivírus, PowerShell, drivers, impressoras, navegadores, Active Directory, DHCP
 
 
@@ -36,7 +39,7 @@ Português (nativo) / Inglês (good read and listening)
 **Banco de dados (ORM)**: Dapper, Entity Framework, Hibernate<br>
 **Banco de dados (outros)**: Datomic<br>
 **Testes unitários**: Nsubstitute, Xunit<br>
-**Frameworks**: React<br>
+**Frameworks**: React, TypeScript, Angular<br>
 **Contêineres**: Kubernetes<br>
 **Microserviços**: Spring Cloud<br>
 **Programação reativa**: Spring WebFlux<br>
@@ -156,7 +159,8 @@ _ (SignalR) The Complete Guide (with real world examples) [**4h 56m**]
 <br><br>
 > SERVIDOR
 
-Administro um servidor VPS (Linux) na Contabo para testes diversos.
+Administro um servidor VPS (Linux) na Contabo para testes diversos.<br>
+Atualmente configurando Grafana e Prometheus para monitoramento.
 <br><br><br><br>
 
 
@@ -177,7 +181,7 @@ NGINX, PHP, phpMyAdmin, MariaDB, mysql<br />
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
 -->
 
-> <em>Last update: 02/09/2024 00:05</em>
+> <em>Last update: 06/09/2024 00:11</em>
 
 <!--
 
