@@ -1,3 +1,7 @@
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Marcio Barcellos
 <br>
 
@@ -18,7 +22,7 @@ Português (nativo) / Inglês (good read and listening)
 **Controle de versão**: Git, GitHub, BitBucket, Azure Repos<br>
 **Hospedagem**: cPANEL (phpMyAdmin), WHM, registro de domínios, DNS, FTP, SSH<br>
 **Linguagens**: C#, PHP, CSS, JavaScript (jQuery, Json, Ajax), Dart, Ruby<br>
-**Frameworkds**: .NET Framework, .NET Core, Fluttter, Rails<br>
+**Frameworks**: .NET Framework, .NET Core, Fluttter, Rails<br>
 **Banco de dados (SQL)**: SQL, Oracle, MySQL, Postgre<br>
 **Banco de dados (NoSQL)**: Firebase, DynamoDB<br>
 **Cloud**: AWS, Azure, CI/CD, GitHub Actions<br>
