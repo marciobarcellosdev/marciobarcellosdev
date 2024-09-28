@@ -43,7 +43,7 @@ Português (nativo) / Inglês (good read and listening)
 **Banco de dados (ORM)**: Dapper, Entity Framework, Hibernate<br>
 **Banco de dados (outros)**: Datomic<br>
 **Testes unitários**: Nsubstitute, Xunit<br>
-**Frameworks**: React, TypeScript, Angular<br>
+**Frontend**: React, TypeScript, Angular, NextJS<br>
 **Contêineres**: Kubernetes<br>
 **Microserviços**: Spring Cloud<br>
 **Programação reativa**: Spring WebFlux<br>
@@ -53,16 +53,27 @@ Português (nativo) / Inglês (good read and listening)
 **Monitoramento**: Grafana, Prometheus<br>
 
 
-<br><ins>Curso em progresso</ins><br>
+<br><ins>Cursos em progresso</ins><br>
 
 _ (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
 ( [open page course](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/) ) ( [repositório](https://github.com/marciobarcellosdev/go_quicknotes) ) {13%}
+_ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
+( [open page course](https://www.udemy.com/course/angular-dotnetcore-efcore/) ) {22%}<br>
+_ (Azure) AZ-204 Developing Solutions for Microsoft Azure - OCT 2023 [**11h**]
+( [open page course](https://www.udemy.com/course/70532-azure/) ) {77%}<br>
+
+<br><ins>Últimos checkouts</ins><br>
+
+_ (Jenkins) CI/CD com Gitflow no Kubernetes [**13h**]
+( [open page course](https://www.udemy.com/course/jenkins-cicd-com-gitflow-no-kubernetes/) )<br>
+_ (Kubernetes) Do Básico ao Avançado [**21h**]
+( [open page course](https://www.udemy.com/course/kubernetes-do-basico-ao-avancado/) )<br>
+_ (.Net/NextJS) Build a Microservices app with .Net and NextJS from scratch [**38h**]
+( [open page course](https://www.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/) )<br>
 
 
 <br><ins>Cursos em pausa</ins><br>
 
-_ (Azure) AZ-204 Developing Solutions for Microsoft Azure - OCT 2023 [**11h**]
-( [open page course](https://www.udemy.com/course/70532-azure/) ) {47%}<br>
 _ (Azure) DevOps - Board, Repos, Pipeline,Test Plans e Artifacts [**6h 22m**]
 ( [open page course](https://www.udemy.com/course/azuredevops-services/) ) {38%}<br>
 _ (Google) Certificação Google Cloud Associate Cloud Engineer (GCP) [**8h 57m**]
@@ -103,8 +114,6 @@ _ (Azure) Boards : Gerenciamento de Projetos com Azure DevOps [**12h**]
 ( [open page course](https://www.udemy.com/course/azureboards/) )<br>
 _ (JavaScript) Curso de JavaScript Completo [**113h 44m**]
 ( [open page course](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/) )<br>
-_ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
-( [open page course](https://www.udemy.com/course/angular-dotnetcore-efcore/) )<br>
 _ (Oracle) Banco de Dados Oracle Completo: SQL+PLSQL+Modelagem [**31h 35m**]
 ( [open page course](https://www.udemy.com/course/banco-de-dados-oracle-completo-sqlplsqlmodelagem-de-dados/) )<br>
 _ (PHP) Criando sistema de ordem de serviço vendas com Codeigniter 3 [**38h**]<br>
@@ -185,20 +194,4 @@ NGINX, PHP, phpMyAdmin, MariaDB, mysql<br />
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
 -->
 
-> <em>Last update: 06/09/2024 00:11</em>
-
-<!--
-
-
-
-formas de contato
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <em>Last update: 27/09/2024 22:33</em>
