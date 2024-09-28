@@ -65,12 +65,22 @@ Português (nativo) / Inglês (good read and listening)
 
 <br><ins>Cursos em progresso</ins><br>
 
-_ (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
-( [open page course](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/) ) ( [repositório](https://github.com/marciobarcellosdev/go_quicknotes) ) {13%}
-_ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
-( [open page course](https://www.udemy.com/course/angular-dotnetcore-efcore/) ) {22%}<br>
 _ (Azure) AZ-204 Developing Solutions for Microsoft Azure - OCT 2023 [**11h**]
-( [open page course](https://www.udemy.com/course/70532-azure/) ) {77%}<br>
+<br>Progresso: 77%
+<br>Página do curso: [https://www.udemy.com/course/70532-azure/](https://www.udemy.com/course/70532-azure/)
+
+_ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
+<br>Progresso: 22%
+<br>Página do curso: [https://www.udemy.com/course/angular-dotnetcore-efcore/](https://www.udemy.com/course/angular-dotnetcore-efcore/)
+<br>Repositório: [net_webapi_proeventos](https://github.com/marciobarcellosdev/net_webapi_proeventos)
+
+_ (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
+( [open page course](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/) ) {13%}
+<br>Progresso: 13%
+<br>Página do curso: [https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/)
+<br>Repositório: [go_quicknotes](https://github.com/marciobarcellosdev/go_quicknotes)
+
+
 
 <br><ins>Últimos checkouts</ins><br>
 
