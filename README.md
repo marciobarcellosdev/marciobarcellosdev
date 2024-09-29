@@ -2,12 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 23 mins
+From: 20 October 2022 - To: 28 September 2024
 
-C#           1 hr 20 mins    ████████████████████████░   95.99 %
-Markdown     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Total Time: 2 hrs 13 mins
+
+C#           1 hr 20 mins    >>>>>>>>>>>>>>>----------   60.08 %
+YAML         27 mins         >>>>>--------------------   20.85 %
+Markdown     25 mins         >>>>>--------------------   18.80 %
+TypeScript   0 secs          -------------------------   00.23 %
+XML          0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
