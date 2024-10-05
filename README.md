@@ -65,9 +65,9 @@ Português (nativo) / Inglês (good read and listening)
 
 <br><ins>Cursos em progresso</ins><br>
 
-_ (Azure) AZ-204 Developing Solutions for Microsoft Azure - OCT 2023 [**11h**]
-<br>Progresso: 77%
-<br>Página do curso: [https://www.udemy.com/course/70532-azure/](https://www.udemy.com/course/70532-azure/)
+_ (Azure) DevOps - Board, Repos, Pipeline,Test Plans e Artifacts [**7h**]
+<br>Progresso: 38%
+<br>Página do curso: [https://www.udemy.com/course/azuredevops-services/](https://www.udemy.com/course/azuredevops-services/)
 
 _ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
 <br>Progresso: 22%
@@ -94,8 +94,6 @@ _ (.Net/NextJS) Build a Microservices app with .Net and NextJS from scratch [**3
 
 <br><ins>Cursos em pausa</ins><br>
 
-_ (Azure) DevOps - Board, Repos, Pipeline,Test Plans e Artifacts [**6h 22m**]
-( [open page course](https://www.udemy.com/course/azuredevops-services/) ) {38%}<br>
 _ (Google) Certificação Google Cloud Associate Cloud Engineer (GCP) [**8h 57m**]
 ( [open page course](https://www.udemy.com/course/certificacao-google-cloud-associate/) ) {44%}<br>
 
@@ -167,6 +165,10 @@ _ (SEO) Curso de SEO 2024 - Do zero até a primeira posição no GOOGLE [**10h 3
 
 <br><ins>Cursos finalizados</ins><br>
 
+_ (Azure) AZ-204 Developing Solutions for Microsoft Azure - OCT 2023 [**11h**]
+<br>Página do curso: [https://www.udemy.com/course/70532-azure/](https://www.udemy.com/course/70532-azure/)
+<br>Finalizado: 04/10/24
+
 _ (ASP.NET) MVC Core 3 com Visual Studio Code [**5h 51m**]
 ( [open page course](https://www.udemy.com/course/aspnet-mvc-core-3-com-visual-studio-code/) )<br>
 _ (ASP.NET) Single-Page Application with ASP.NET & jQuery Hands-On [**3h 28m**]
@@ -214,4 +216,4 @@ NGINX, PHP, phpMyAdmin, MariaDB, mysql<br />
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
 -->
 
-> <em>Last update: 27/09/2024 22:33</em>
+> <em>Last update: 05/10/2024 10:44</em>
