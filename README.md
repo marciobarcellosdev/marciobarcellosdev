@@ -2,8 +2,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2022 - To: 03 October 2024
-
 Total Time: 8 hrs 3 mins
 
 JavaScript   4 hrs 43 mins   >>>>>>>>>>>>>>>----------   58.53 %
