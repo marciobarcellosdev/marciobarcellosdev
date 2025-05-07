@@ -1,20 +1,4 @@
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 20 October 2022 - To: 03 October 2024
-
-Total Time: 8 hrs 3 mins
-
-JavaScript   4 hrs 43 mins   >>>>>>>>>>>>>>>----------   58.53 %
-C#           1 hr 20 mins    >>>>---------------------   16.58 %
-HTML         34 mins         >>-----------------------   07.03 %
-CSS          33 mins         >>-----------------------   06.85 %
-YAML         27 mins         >------------------------   05.75 %
-```
-
-<!--END_SECTION:waka-->
-
 ## Marcio Barcellos
 <br>
 
@@ -31,16 +15,16 @@ Português (nativo) / Inglês (good read and listening)
 
 <br><ins>Conhecimentos atuais</ins><br>
 
-**IDE**: VS Code, Visual Studio 2019/2022, Eclipse, PhpStorm, Sublime Text, NetBeans, Delphi 6<br>
+**IDE**: VS Code, Visual Studio 2019/2022, Eclipse, PhpStorm, Sublime Text, NetBeans, Delphi 6, Android Studio<br>
 **Controle de versão**: Git, GitHub, BitBucket, Azure Repos<br>
 **Hospedagem**: cPANEL (phpMyAdmin), WHM, registro de domínios, DNS, FTP, SSH<br>
-**Linguagens**: C#, PHP, CSS, JavaScript (jQuery, Json, Ajax), Dart, Ruby<br>
+**Linguagens**: C#, PHP, CSS, JavaScript (jQuery, Json, Ajax), Dart, Ruby, Java<br>
 **Frameworks**: .NET Framework, .NET Core, Fluttter, Rails<br>
-**Banco de dados (SQL)**: SQL, Oracle, MySQL, Postgre<br>
-**Banco de dados (NoSQL)**: Firebase, DynamoDB<br>
+**Banco de dados (SQL)**: SQL, Oracle, MySQL, PostgreSQL<br>
+**Banco de dados (NoSQL)**: Firebase, DynamoDB, MongoDB<br>
 **Cloud**: AWS, Azure, CI/CD, GitHub Actions<br>
 **Servidores**: IIS, Administração de servidores Linux e Windows<br>
-**Contêineres**: Docker<br>
+**Contêineres**: Docker, Portainer<br>
 **Virtualização**: VMWare, VirtualBox<br>
 **Acesso remoto**: VNC, TeamViewer, Supremo, AnyDesk<br>
 **Armazenamento na nuvem**: OneDrive, DropBox, Google Drive, Mega, IDrive<br>
@@ -52,7 +36,7 @@ Português (nativo) / Inglês (good read and listening)
 
 **Linguagens**: Go, Java, Python, Clojure<br>
 **Mensageria**: Kafka, RabbitMQ<br>
-**Banco de dados (NoSQL)**: MongoDB, Redis<br>
+**Banco de dados (NoSQL)**: Redis<br>
 **Banco de dados (ORM)**: Dapper, Entity Framework, Hibernate<br>
 **Banco de dados (outros)**: Datomic<br>
 **Testes unitários**: Nsubstitute, Xunit<br>
@@ -84,17 +68,6 @@ _ (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
 <br>Repositório: [go_quicknotes](https://github.com/marciobarcellosdev/go_quicknotes)
 
 
-
-<br><ins>Últimos checkouts</ins><br>
-
-_ (Jenkins) CI/CD com Gitflow no Kubernetes [**13h**]
-( [open page course](https://www.udemy.com/course/jenkins-cicd-com-gitflow-no-kubernetes/) )<br>
-_ (Kubernetes) Do Básico ao Avançado [**21h**]
-( [open page course](https://www.udemy.com/course/kubernetes-do-basico-ao-avancado/) )<br>
-_ (.Net/NextJS) Build a Microservices app with .Net and NextJS from scratch [**38h**]
-( [open page course](https://www.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/) )<br>
-
-
 <br><ins>Cursos em pausa</ins><br>
 
 _ (Google) Certificação Google Cloud Associate Cloud Engineer (GCP) [**8h 57m**]
@@ -111,6 +84,12 @@ _ (Swift) Desenvolvimento IOS 12 - Aprenda a criar 18 Apps [**52h**]
 
 <br><ins>Cursos não iniciados (novo conhecimento)</ins>
 
+_ (Jenkins) CI/CD com Gitflow no Kubernetes [**13h**]
+( [open page course](https://www.udemy.com/course/jenkins-cicd-com-gitflow-no-kubernetes/) )<br>
+_ (Kubernetes) Do Básico ao Avançado [**21h**]
+( [open page course](https://www.udemy.com/course/kubernetes-do-basico-ao-avancado/) )<br>
+_ (NET/NextJS) Build a Microservices app with .Net and NextJS from scratch [**38h**]
+( [open page course](https://www.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/) )<br>
 _ (Google) Cloud Developer - GCP Professional Certification [**21h 32m**]
 ( [open page course](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/) )<br>
 _ (Java) COMPLETO: Do Zero ao Profissional + Projetos! [**77h 12m**]
@@ -197,8 +176,8 @@ _ (SignalR) The Complete Guide (with real world examples) [**4h 56m**]
 <br><br>
 > SERVIDOR
 
-Administro um servidor VPS (Linux) na Contabo para testes diversos.<br>
-Atualmente configurando Grafana e Prometheus para monitoramento.
+Experiência com Windows Server, Linux, Proxmox, Portainer
+
 <br><br><br><br>
 
 
@@ -219,4 +198,4 @@ NGINX, PHP, phpMyAdmin, MariaDB, mysql<br />
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
 -->
 
-> <em>Last update: 05/10/2024 10:44</em>
+> <em>Last update: 07/05/2025 19:16</em>
