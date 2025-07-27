@@ -80,7 +80,13 @@ Português (nativo) / Inglês (good read and listening)
 + Amazon DynamoDB
 
 <ins>Bancos de dados - Administração</ins><br>
++ SQL Server Management Studio
++ SQL Developer (Oracle)
++ DBeaver
 + phpMyAdmin (MySQL e MariaDB)
++ pgAdmin (PostgreSQL)
+
+
 
 <br>
 
@@ -107,6 +113,7 @@ Português (nativo) / Inglês (good read and listening)
 <ins>Front-end</ins><br>
 + CSS
 
+<br>
 
 ## Conhecimentos atuais [ Outros ]
 
@@ -136,17 +143,13 @@ Português (nativo) / Inglês (good read and listening)
 + FTP
 + SSH
 + Registro de domínios
++ Certificados SSL
 
 <ins>Monitoramento</ins><br>
 + Grafana
 + Prometheus
 
-
-
-
-
-
-
+<br>
 
 ## Conhecimentos atuais [ Infraestrutura ]
 
@@ -154,14 +157,14 @@ Português (nativo) / Inglês (good read and listening)
 + Linux
 + Windows Server
 + Active Directory
-
++ WSUS
 
 <ins>Redes</ins><br>
 + DHCP
 
 <ins>Segurança</ins><br>
 + Firewall
-+ Antivirus
++ Antivírus
 
 <ins>PowerShell</ins><br>
 + Scripts para automatizar processos
