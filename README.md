@@ -12,14 +12,64 @@ Também já trabalhei em outras aplicações da empresa que utilizam Dart/Flutte
 <br><ins>Idiomas</ins><br>
 Português (nativo) / Inglês (good read and listening)
 
+<br>
 
-<br><ins>Conhecimentos atuais</ins><br>
+### Conhecimentos atuais
 
-**IDE**: VS Code, Visual Studio 2019/2022, Eclipse, PhpStorm, Sublime Text, NetBeans, Delphi 6, Android Studio<br>
-**Controle de versão**: Git, GitHub, BitBucket, Azure Repos<br>
+
+<br><ins>Cloud AWS</ins><br>
++ CodeDeploy
++ CodePipeline
++ Amazon SES
++ EC2
++ Certificate Manager
++ Route 53
++ Lambda
++ CloudWatch
++ AWS Backup 
+
+
+
+<br><ins>Linguagem Ruby</ins><br>
++ Ruby on Rails
+
+<br><ins>Linguagem PHP</ins><br>
++ PHPMailer
+
+
+<br><ins>Web Servers</ins><br>
++ Apache
++ NGINX
++ Puma (Ruby)
+
+
+<br><ins>Bancos de Dados</ins><br>
++ MySQL
++ MariaDB
++ SQL Server
++ Oracle
++ MongoDB
++ Amazon DynamoDB
+
+<br><ins>Administração de Bancos de Dados</ins><br>
++ phpMyAdmin
+
+
+<br><ins>Controle de versão</ins><br>
++ Git
++ GitHub
++ BitBucket
++ Azure Repos
+
+
+
+
+
+**IDE**: VS Code, Visual Studio 2019/2022, Eclipse, Delphi 6, Android Studio<br>
+
 **Hospedagem**: cPANEL (phpMyAdmin), WHM, registro de domínios, DNS, FTP, SSH<br>
-**Linguagens**: C#, PHP, CSS, JavaScript (jQuery, Json, Ajax), Dart, Ruby, Java<br>
-**Frameworks**: .NET Framework, .NET Core, Fluttter, Rails<br>
+**Linguagens**: C#, Dart, Java, CSS, JavaScript (jQuery, Json, Ajax)<br>
+**Frameworks**: .NET Framework, .NET Core, Fluttter<br>
 **Banco de dados (SQL)**: SQL, Oracle, MySQL, PostgreSQL<br>
 **Banco de dados (NoSQL)**: Firebase, DynamoDB, MongoDB<br>
 **Cloud**: AWS, Azure, CI/CD, GitHub Actions<br>
@@ -50,99 +100,9 @@ Português (nativo) / Inglês (good read and listening)
 **Monitoramento**: Grafana, Prometheus<br>
 
 
-<br><ins>Cursos em progresso</ins><br>
-
-_ (Azure) DevOps - Board, Repos, Pipeline,Test Plans e Artifacts [**7h**]
-<br>Progresso: 38%
-<br>Página do curso: [https://www.udemy.com/course/azuredevops-services/](https://www.udemy.com/course/azuredevops-services/)
-
-_ (NET) Seja Full-Stack com .NET Web API e Angular + EF Core [**36h 33m**]
-<br>Progresso: 22%
-<br>Página do curso: [https://www.udemy.com/course/angular-dotnetcore-efcore/](https://www.udemy.com/course/angular-dotnetcore-efcore/)
-<br>Repositório: [net_webapi_proeventos](https://github.com/marciobarcellosdev/net_webapi_proeventos)
-
-_ (Go) Desenvolvimento Web com Go - Do Zero ao Deploy [**30h 40m**]
-( [open page course](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/) ) {13%}
-<br>Progresso: 13%
-<br>Página do curso: [https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/](https://www.udemy.com/course/desenvolvimento-web-com-go-do-zero-ao-deploy/)
-<br>Repositório: [go_quicknotes](https://github.com/marciobarcellosdev/go_quicknotes)
 
 
-<br><ins>Cursos em pausa</ins><br>
 
-_ (Google) Certificação Google Cloud Associate Cloud Engineer (GCP) [**8h 57m**]
-( [open page course](https://www.udemy.com/course/certificacao-google-cloud-associate/) ) {44%}<br>
-
-
-<br><ins>Cursos não iniciados (mobile)</ins><br>
-
-_ (Kotlin) Desenvolvimento Android Completo - Crie 18 Apps [**107,5h**]
-( [open page course](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/) )<br>
-_ (Swift) Desenvolvimento IOS 12 - Aprenda a criar 18 Apps [**52h**]
-( [open page course](https://www.udemy.com/course/curso-desenvolvimento-ios/) )<br>
-
-
-<br><ins>Cursos não iniciados (novo conhecimento)</ins>
-
-_ (Jenkins) CI/CD com Gitflow no Kubernetes [**13h**]
-( [open page course](https://www.udemy.com/course/jenkins-cicd-com-gitflow-no-kubernetes/) )<br>
-_ (Kubernetes) Do Básico ao Avançado [**21h**]
-( [open page course](https://www.udemy.com/course/kubernetes-do-basico-ao-avancado/) )<br>
-_ (NET/NextJS) Build a Microservices app with .Net and NextJS from scratch [**38h**]
-( [open page course](https://www.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/) )<br>
-_ (Google) Cloud Developer - GCP Professional Certification [**21h 32m**]
-( [open page course](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/) )<br>
-_ (Java) COMPLETO: Do Zero ao Profissional + Projetos! [**77h 12m**]
-( [open page course](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) )<br>
-_ (Java) REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker [**34,5h**]
-( [open page course](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/) )<br>
-_ (Java) Spring Boot + React JS: Desenvolva Aplicações Web Completas [**22,5h**]
-( [open page course](https://www.udemy.com/course/desenvolva-aplicacoes-completas-com-spring-boot-e-react-js/) )<br>
-_ (Python) do ZERO à Programação Orientada a Objetos [**16h 2m**]
-( [open page course](https://www.udemy.com/course/python-do-zero-a-poo/) )<br>
-_ (Python) Curso de Django Web Framework e Django Rest Framework (DRF) [**79h 0m**]
-( [open page course](https://www.udemy.com/course/curso-de-django-web-framework-com-python-html-e-css/) )<br>
-
-
-<br><ins>Cursos não iniciados (aprimorar conhecimento)</ins><br>
-
-_ (ASP.NET) Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C# [**24h 14m**]
-( [open page course](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/) )<br>
-_ (ASP.NET Core MVC) Curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6) [**16h 0m**]
-( [open page course](https://www.udemy.com/course/curso-de-asp-net-core-mvc-criando-um-site-do-zero/) )<br>
-_ (Azure) Boards : Gerenciamento de Projetos com Azure DevOps [**12h**]
-( [open page course](https://www.udemy.com/course/azureboards/) )<br>
-_ (JavaScript) Curso de JavaScript Completo [**113h 44m**]
-( [open page course](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/) )<br>
-_ (Oracle) Banco de Dados Oracle Completo: SQL+PLSQL+Modelagem [**31h 35m**]
-( [open page course](https://www.udemy.com/course/banco-de-dados-oracle-completo-sqlplsqlmodelagem-de-dados/) )<br>
-_ (PHP) Criando sistema de ordem de serviço vendas com Codeigniter 3 [**38h**]<br>
-_ (PHP) Curso Completo de PHP 7 [**33h 23m**]
-( [open page course](https://www.udemy.com/course/curso-php-7-online/) )<br>
-_ (PHP) Laravel 6 na Prática - Criando um Marketplace [**25,5h**]
-( [open page course](https://www.udemy.com/course/laravel-6-na-pratica/) )<br>
-_ (Ruby) Learn Ruby on Rails 7 [**4h 35m**]
-( [open page course](https://www.udemy.com/course/learn-ruby-on-rails-7/) )<br>
-_ (Ruby) TDD com Ruby on Rails, RSpec e Capybara [**15,5h**]
-( [open page course](https://www.udemy.com/course/rails-tdd/) )<br>
-_ (Ruby) The Complete Ruby on Rails Developer Course [**47h 51m**]
-( [open page course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) )<br>
-
-
-<br><ins>Cursos não iniciados (design)</ins><br>
-
-_ (Figma) Design de interfaces do zero ao profissional 2024 [**15h 15m**]
-( [open page course](https://www.udemy.com/course/figma-design-interfaces/) )<br>
-_ (Adobe Photoshop) Curso de Photoshop CC 2020, do iniciante ao avançado [**34h**]
-( [open page course](https://www.udemy.com/course/aprenda-photoshop-cc-2020-do-zero-ao-avancado/) )<br>
-_ (Adobe XD) Curso Completo de Adobe XD| 10 Projetos + 2 Nanocursos [**9h**]
-( [open page course](https://www.udemy.com/course/curso-de-adobe-xd/) )<br>
-
-
-<br><ins>Cursos não iniciados (search engine optimization)</ins><br>
-
-_ (SEO) Curso de SEO 2024 - Do zero até a primeira posição no GOOGLE [**10h 37m**]
-( [open page course](https://www.udemy.com/course/curso-de-seo-2022-rodrigo-bueno/) )<br>
 
 
 <br><ins>Cursos finalizados</ins><br>
@@ -198,4 +158,4 @@ NGINX, PHP, phpMyAdmin, MariaDB, mysql<br />
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
 -->
 
-> <em>Last update: 07/05/2025 19:16</em>
+> <em>Last update: 27/07/2025 09:58</em>
