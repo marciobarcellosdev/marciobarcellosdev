@@ -14,87 +14,79 @@ Português (nativo) / Inglês (good read and listening)
 
 <br>
 
-### Conhecimentos atuais
+## Conhecimentos atuais [ Cloud ]
 
-
-<br><ins>Cloud AWS</ins><br>
+<ins>AWS</ins><br>
++ DVA-C01 - AWS Certified Developer - Associate
 + CodeDeploy
 + CodePipeline
 + Amazon SES
-+ EC2
++ Elastic Compute Cloud - EC2
 + Certificate Manager
 + Route 53
 + Lambda
 + CloudWatch
 + AWS Backup 
 
+<ins>Azure</ins><br>
++ AZ-204 - Developing Solutions for Microsoft Azure
++ AZ-900 - Conceitos básicos do Microsoft Azure
++ Boards
++ Repos
++ Pipelines
 
+<br>
 
-+ Certificação AWS Certified Developer Associate DVA-C01
+## Conhecimentos atuais [ Linguagens ]
 
-
-
-<br><ins>Cloud Azure</ins><br>
-+ AZ-204 Developing Solutions for Microsoft Azure
-+ Certificação Microsoft AZ-900 Azure Fundamentals
-
-
-
-
-
-<br><ins>Linguagem Ruby</ins><br>
-+ Ruby on Rails
-
-<br><ins>Linguagem PHP</ins><br>
-+ PHPMailer
-
-
-
-<br><ins>Linguagem Dart</ins><br>
-+ Flutter
-
-
-
-<br><ins>Linguagem CSharp</ins><br>
+<ins>CSharp</ins><br>
 + NET Framework
 + NET Core
 + SignalR
 + MVC
 
+<ins>Ruby</ins><br>
++ Ruby on Rails
 
+<ins>PHP</ins><br>
++ PHPMailer
 
-<br><ins>Web Servers</ins><br>
-+ Apache
-+ NGINX
-+ Puma (Ruby)
-+ IIS
+<ins>Dart</ins><br>
++ Flutter
 
+<ins>JavaScript</ins><br>
++ jQuery
++ Ajax
++ Json
 
-<br><ins>Bancos de Dados</ins><br>
+<ins>Java</ins><br>
++ Java ME (Micro Edition) - Mobile
+
+<br>
+
+## Conhecimentos atuais [ Bancos de dados ]
+
+<ins>Bancos de dados - SQL</ins><br>
 + MySQL
 + MariaDB
 + PostgreSQL
 + SQL Server
 + Oracle
+
+<ins>Bancos de dados - NoSQL</ins><br>
 + Firebase Realtime Database
 + Firebase Firestore
 + MongoDB
 + Amazon DynamoDB
 
-<br><ins>Administração de Bancos de Dados</ins><br>
+<ins>Bancos de dados - Administração</ins><br>
 + phpMyAdmin (MySQL e MariaDB)
 
+<br>
 
-<br><ins>Controle de versão</ins><br>
-+ Git
-+ GitHub
-+ BitBucket
-+ Azure Repos
+## Conhecimentos atuais [ Desenvolvimento ]
 
-
-
-
-<br><ins>IDE</ins><br>
+<ins>IDE</ins><br>
 + VS Code
 + Visual Studio 2019
 + Visual Studio 2022
@@ -102,51 +94,92 @@ Português (nativo) / Inglês (good read and listening)
 + Delphi 6
 + Android Studio
 
+<ins>Controle de versão</ins><br>
++ Git
++ GitHub
++ BitBucket
++ Azure Repos
+
+<ins>API</ins><br>
++ Verbos HTTP (GET, POST, PUT, PATCH, DELETE)
++ Postman
+
+<ins>Front-end</ins><br>
++ CSS
 
 
+## Conhecimentos atuais [ Outros ]
 
+<ins>Web Servers</ins><br>
++ Apache
++ NGINX
++ Puma (Ruby)
++ IIS
 
-<br><ins>Servidores</ins><br>
-+ Linux
-+ Windows Server
-Active Directory, DHCP
+<ins>Virtualização</ins><br>
++ Proxmox
++ VMWare
++ VirtualBox
 
-
-<br><ins>Virtualização</ins><br>
-Proxmox
-VMWare, VirtualBox
-
-
-
-<br><ins>CI/CD</ins><br>
+<ins>CI/CD</ins><br>
 + GitHub Actions
 
-
-
-<br><ins>Contêineres</ins><br>
+<ins>Contêineres</ins><br>
 + Docker
 + Portainer
++ Dozzle (log)
+
+<ins>Hospedagem web</ins><br>
++ cPanel
++ WHM (WebHost Manager)
++ DNS
++ FTP
++ SSH
++ Registro de domínios
+
+<ins>Monitoramento</ins><br>
++ Grafana
++ Prometheus
 
 
 
 
-**Hospedagem**: cPANEL (phpMyAdmin), WHM, registro de domínios, DNS, FTP, SSH<br>
-**Linguagens**: Java, CSS, JavaScript (jQuery, Json, Ajax)<br>
+
+
+
+
+## Conhecimentos atuais [ Infraestrutura ]
+
+<ins>Servidores</ins><br>
++ Linux
++ Windows Server
++ Active Directory
+
+
+<ins>Redes</ins><br>
++ DHCP
+
+<ins>Segurança</ins><br>
++ Firewall
++ Antivirus
+
+<ins>PowerShell</ins><br>
++ Scripts para automatizar processos
+
+<ins>Hardware</ins><br>
++ Conhecimento em manutenção de computadores
 
 
 
 
 
+<br><br><br><br>
 
-**API**: Postman<br>
-**Outros**: Win10/Win11 (configuração), Linux, hardware, pacote Office, Outllook, Teams, redes, Wi-Fi, firewall, antivírus, PowerShell, drivers, impressoras, navegadores, 
-
-
+> <em>Last update: 27/07/2025 09:58</em>
 
 
 
-
-<br><ins>Próximos conhecimentos a serem adquiridos</ins><br>
+<!-- <br><ins>Próximos conhecimentos a serem adquiridos</ins><br>
 
 **Linguagens**: Go, Java, Python, Clojure<br>
 **Mensageria**: Kafka, RabbitMQ<br>
@@ -161,10 +194,8 @@ VMWare, VirtualBox
 **CI/CD**: Jenkins<br>
 **Ambiente de execução**: Node.js<br>
 **API**: GraphQL<br>
-**Monitoramento**: Grafana, Prometheus<br>
+**Monitoramento**: Grafana, Prometheus<br> -->
 
-
-<br><br><br><br>
 
 <!--
 - [x] Configurar para rodar** aplicações PHP (CI/CD) 
@@ -177,5 +208,3 @@ VMWare, VirtualBox
 <!-- IMAGEM
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
 -->
-
-> <em>Last update: 27/07/2025 09:58</em>
